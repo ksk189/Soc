@@ -1,0 +1,4 @@
+#Sun Feb 04 19:44:55 IST 2024
+base.0=/Users/sasikatteboina/flutter 2nd app/final flutter projects/lab exam scheduler/soc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
